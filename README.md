@@ -23,7 +23,7 @@ Follow these steps to get started:
 First, clone this repository to your local machine:  
 
 ```bash
-git clone https://github.com/yourusername/pandas-mastery.git
+git clone https://github.com/tonimurfid/Workshop-Numpy-Pandas.git
 cd pandas-mastery
 ```
 
