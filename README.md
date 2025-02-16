@@ -1,4 +1,7 @@
-```markdown
+Here’s your **README.md** content without Markdown formatting:
+
+---
+
 # 🐼 **Pandas Mastery – Learn & Practice** 🚀  
 
 Welcome to **Pandas Mastery!** This repository is designed to help you **learn and practice** Pandas, the most powerful data manipulation library in Python. Whether you're just starting out or looking to reinforce your understanding, this repo provides structured materials and exercises to improve your Pandas skills.  
@@ -22,7 +25,7 @@ Follow these steps to get started:
 ### 1️⃣ **Clone the Repository**  
 First, clone this repository to your local machine:  
 
-```bash
+```
 git clone https://github.com/tonimurfid/Workshop-Numpy-Pandas.git
 cd pandas-mastery
 ```
@@ -47,7 +50,7 @@ Click the **Fork** button in the top right corner of this repository on GitHub.
 ### 2️⃣ **Clone Your Forked Repository**  
 After forking, copy the URL of your forked repository and run:  
 
-```bash
+```
 git clone https://github.com/yourgithubusername/pandas-mastery.git
 cd pandas-mastery
 ```
@@ -58,7 +61,7 @@ Now you can modify the notebooks, complete exercises, and track your own progres
 ### 4️⃣ **Commit and Push Your Changes**  
 Once you’ve made some changes, you can commit and push them to your own repository:  
 
-```bash
+```
 git add .
 git commit -m "Completed Pandas exercises"
 git push origin main
@@ -84,5 +87,7 @@ Feel free to **fork this repo**, create a **pull request**, or open an **issue**
 > **"Data is like an uncut gem—you need the right tools to refine it into something valuable."** ⛏️✨  
 
 Happy coding! 🚀🐼  
-```
 
+---
+
+You can **copy and paste** this into your `README.md` file, and it will be properly formatted when viewed on GitHub! 🚀
