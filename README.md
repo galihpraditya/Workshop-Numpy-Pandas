@@ -1,6 +1,4 @@
-Here’s your **README.md** content without Markdown formatting:
 
----
 
 # 🐼 **Pandas Mastery – Learn & Practice** 🚀  
 
@@ -87,7 +85,3 @@ Feel free to **fork this repo**, create a **pull request**, or open an **issue**
 > **"Data is like an uncut gem—you need the right tools to refine it into something valuable."** ⛏️✨  
 
 Happy coding! 🚀🐼  
-
----
-
-You can **copy and paste** this into your `README.md` file, and it will be properly formatted when viewed on GitHub! 🚀
